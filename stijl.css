@@ -5,7 +5,6 @@ body {
 }
 h1 {
 	font-size: 8rem;
-	line-height: 8rem;
 	color: #00a4a6;
 	font-weight: lighter;
 	margin-left: 100vw;
@@ -74,17 +73,18 @@ nav a {
 	filter: contrast(150%);
 }
 .vierkant{
-	width: 250px;
-	height: 250px;
+	width: 290px;
+	height: 290px;
 	background: #d8cdc4;
 	border: 0.5rem solid white;
-	margin: 15rem auto;
+	margin: 10rem auto;
 	animation-name: animatievierkant;
 	animation-duration: 2s;
 }
 .think {
 	position: absolute;
-	bottom: 51vh;
+	left: 42vw;
+	top: 54vh;
 	text-align: center;
 	animation-name: animatiethink;
 	animation-duration: 1s;
@@ -94,7 +94,8 @@ nav a {
 }
 .outside {
 	position: absolute;
-	bottom: 52vh;
+	left: 42vw;
+	top: 64vh;
 	text-align: center;
 	animation-name: animatieoutside;
 	animation-duration: 1s;
@@ -104,7 +105,8 @@ nav a {
 }
 .the {
 	position: absolute;
-	bottom: 53vh;
+	left: 42vw;
+	top: 74vh;
 	text-align: center;
 	animation-name: animatiethe;
 	animation-duration: 1s;
@@ -114,7 +116,8 @@ nav a {
 }
 .box {
 	position: absolute;
-	bottom: 52vh;
+	left: 42vw;
+	top: 89vh;
 	text-align: center;
 	animation-name: animatiebox;
 	animation-duration: 1s;
