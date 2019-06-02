@@ -83,7 +83,7 @@ nav a {
 	animation-duration: 2s;
 }
 .think {
-	position: relative;
+	position: absolute;
 	bottom: 51vh;
 	text-align: center;
 	animation-name: animatiethink;
@@ -93,7 +93,7 @@ nav a {
 	color: white;
 }
 .outside {
-	position: relative;
+	position: absolute;
 	bottom: 52vh;
 	text-align: center;
 	animation-name: animatieoutside;
@@ -103,7 +103,7 @@ nav a {
 	color: white;
 }
 .the {
-	position: relative;
+	position: absolute;
 	bottom: 53vh;
 	text-align: center;
 	animation-name: animatiethe;
@@ -113,7 +113,7 @@ nav a {
 	color: white;
 }
 .box {
-	position: relative;
+	position: absolute;
 	bottom: 52vh;
 	text-align: center;
 	animation-name: animatiebox;
