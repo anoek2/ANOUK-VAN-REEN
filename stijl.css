@@ -128,6 +128,9 @@ p {
 	margin: auto;
 	font-size: 4rem;
 }
+#portfolio {
+	color: white;
+}
 
 .about p {
 	color: white;
